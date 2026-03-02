@@ -1,7 +1,8 @@
-Install the dependencies in package.json and run the project
+Install the dependencies in package.json to run the project with
 ```
 npm install
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+A word guesser game where languages get taken out for every wrong guess.
+Play it here: https://assembly-endgame-h9uf.onrender.com
